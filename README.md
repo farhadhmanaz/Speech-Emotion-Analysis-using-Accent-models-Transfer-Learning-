@@ -2,11 +2,12 @@
 The Speech Emotions of a person is found using transfer learning techniques with the Accent Classifier model.
 
 
-###########################################################################################################################
+#######################################################################################################
+
 Link To Download the Datset : 
     https://drive.google.com/drive/folders/1gclUhnmeORU0D91SwUWfKmNICPUgRDkF?usp=sharing 
     
-###########################################################################################################################    
+######################################################################################################## 
     
 1. We have Audio Datasets of African American, Cauasian and Asian.
 2. This Dataset comprises of both males and females.
